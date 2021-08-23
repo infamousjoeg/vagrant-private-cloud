@@ -1,0 +1,13 @@
+{
+	"name": "ubuntu-template",
+	"description": "This box contains Ubuntu 20.04 LTS 64-bit.",
+	"versions": [{
+		"version": "0.1.0",
+		"providers": [{
+			"name": "virtualbox",
+			"url": "https://vagrant.joegarcia.dev/vagrant/ubuntu-template/boxes/ubuntu_0.1.0.box",
+			"checksum_type": "sha1",
+			"checksum": "cebe35e3aa17626151be6dbcf7b426c60cf5d97a"
+		}]
+	}]
+}
